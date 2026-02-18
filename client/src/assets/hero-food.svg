@@ -1,0 +1,22 @@
+<svg width="500" height="500" viewBox="0 0 500 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="250" cy="250" r="200" fill="#FFE8D6"/>
+<circle cx="250" cy="250" r="180" fill="#FFFFFF"/>
+<!-- Lettuce -->
+<path d="M250 100C200 100 150 140 130 180C110 220 120 250 150 280C180 310 220 320 250 320C280 320 320 310 350 280C380 250 390 220 370 180C350 140 300 100 250 100Z" fill="#4ADE80"/>
+<!-- Burger Bun Bottom -->
+<path d="M150 280H350V300C350 330 310 350 250 350C190 350 150 330 150 300V280Z" fill="#FDBA74"/>
+<!-- Patty -->
+<rect x="140" y="250" width="220" height="30" rx="10" fill="#78350F"/>
+<!-- Cheese -->
+<path d="M140 250L360 250L350 270L150 270L140 250Z" fill="#FACC15"/>
+<!-- Tomato -->
+<rect x="150" y="235" width="200" height="15" rx="5" fill="#EF4444"/>
+<!-- Burger Bun Top -->
+<path d="M150 235H350C350 180 310 150 250 150C190 150 150 180 150 235Z" fill="#FDBA74"/>
+<!-- Sesame Seeds -->
+<circle cx="200" cy="180" r="3" fill="#FFE8D6"/>
+<circle cx="230" cy="170" r="3" fill="#FFE8D6"/>
+<circle cx="270" cy="175" r="3" fill="#FFE8D6"/>
+<circle cx="300" cy="190" r="3" fill="#FFE8D6"/>
+<circle cx="250" cy="200" r="3" fill="#FFE8D6"/>
+</svg>
